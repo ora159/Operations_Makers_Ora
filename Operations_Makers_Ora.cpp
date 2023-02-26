@@ -11,8 +11,6 @@
 #include <iostream>
 #include <fstream>
 #include<ostream>
-#pragma warning(suppress : 4996)
-//#include <pch.h>
 #define _CRT_SECURE_NO_WARNINGS 1
 using namespace std;
 
